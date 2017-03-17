@@ -1,0 +1,1135 @@
+TERM_CODE,TERM_DESCRIPTION,CRN,SUBJECT,COURSE_NUMBER,SECTION,SCHEDULE_DESC,TITLE,MAXIMUM_ENROLLMENT,ACTUAL_ENROLLMENT
+200610,Fall Semester 2005,2509,CS,101,001,Lecture,Living with Computers,40,39
+200610,Fall Semester 2005,2510,CS,101,002,Lecture,Living with Computers,40,37
+200610,Fall Semester 2005,2511,CS,101,003,Lab,Living with Computers,20,19
+200610,Fall Semester 2005,2512,CS,101,004,Lab,Living with Computers,20,17
+200610,Fall Semester 2005,2513,CS,101,005,Lab,Living with Computers,20,20
+200610,Fall Semester 2005,2514,CS,101,006,Lab,Living with Computers,20,20
+200610,Fall Semester 2005,3349,CS,135,001,Lecture,Select Top in Comp Science,25,16
+200610,Fall Semester 2005,2501,CS,144,001,Lecture,Intro to Computer Science,25,14
+200610,Fall Semester 2005,2502,CS,144,002,Lab,Intro to Computer Science,25,14
+200610,Fall Semester 2005,2491,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,7
+200610,Fall Semester 2005,2492,CS,145,002,Lab,Intro to Object-Oriented Prog,25,7
+200610,Fall Semester 2005,3422,CS,235,001,Lecture,Select Top in Comp Science,0,0
+200610,Fall Semester 2005,2503,CS,245,001,Lecture,Adv Computer Programming,25,2
+200610,Fall Semester 2005,2504,CS,245,002,Lab,Adv Computer Programming,25,2
+200610,Fall Semester 2005,2499,CS,325,001,Lab,Comp Hardware Inst & Main,15,15
+200610,Fall Semester 2005,2500,CS,326,001,Lab,Comp Software Installation,15,14
+200610,Fall Semester 2005,2495,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,25,6
+200610,Fall Semester 2005,2478,CS,418,001,Lecture,Multimedia Programming,0,0
+200610,Fall Semester 2005,2479,CS,418,002,Lab,Multimedia Programming,0,0
+200610,Fall Semester 2005,2466,CS,450,001,Lecture,Programming Seminar 2,0,0
+200610,Fall Semester 2005,2467,CS,450,002,Lab,Programming Seminar 2,0,0
+200610,Fall Semester 2005,2496,CS,451,001,Lecture,Software Engineering,25,5
+200610,Fall Semester 2005,2507,CS,456,001,Lecture,Internet Services,0,0
+200610,Fall Semester 2005,2508,CS,456,002,Lab,Internet Services,0,0
+200610,Fall Semester 2005,2515,CS,457,001,Internet Course,Computer Networks,25,10
+200610,Fall Semester 2005,2482,CS,461,001,Lecture,Programming Languages,0,0
+200610,Fall Semester 2005,2484,CS,482,001,Lecture,Senior Project Implementation,20,1
+200610,Fall Semester 2005,2468,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200610,Fall Semester 2005,2473,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200610,Fall Semester 2005,2486,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200610,Fall Semester 2005,2493,CS,515,001,Lecture,Java Programming,25,2
+200610,Fall Semester 2005,2494,CS,515,002,Lab,Java Programming,25,2
+200610,Fall Semester 2005,2505,CS,516,001,Lecture,Adv Comp Prg Data Structure,15,2
+200610,Fall Semester 2005,2506,CS,516,002,Lab,Adv Comp Prg Data Structure,15,2
+200610,Fall Semester 2005,2480,CS,518,001,Lecture,Multimedia Programming,0,0
+200610,Fall Semester 2005,2481,CS,518,002,Lab,Multimedia Programming,0,0
+200610,Fall Semester 2005,3557,CS,535,001,Lecture,ST:  Computer Science,15,1
+200610,Fall Semester 2005,2497,CS,551,001,Lecture,Software Engineering,0,0
+200610,Fall Semester 2005,2516,CS,557,001,Internet Course,Computer Networks,25,6
+200610,Fall Semester 2005,2483,CS,561,001,Lecture,Programming Languages,0,0
+200610,Fall Semester 2005,2469,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200610,Fall Semester 2005,2474,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200610,Fall Semester 2005,2487,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200610,Fall Semester 2005,2470,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+200610,Fall Semester 2005,2475,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+200610,Fall Semester 2005,2488,CS,592,003,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+200610,Fall Semester 2005,2485,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,2
+200610,Fall Semester 2005,2498,CS,620,001,Lecture,Multimedia Project Development,20,4
+200610,Fall Semester 2005,2471,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,0,0
+200610,Fall Semester 2005,2476,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+200610,Fall Semester 2005,2489,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,0,0
+200610,Fall Semester 2005,2472,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,2
+200610,Fall Semester 2005,2477,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+200610,Fall Semester 2005,2490,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,0,0
+200620,Spring Semester 2006,3402,CS,101,001,Lecture,Living with Computers,40,40
+200620,Spring Semester 2006,3403,CS,101,002,Lecture,Living with Computers,40,37
+200620,Spring Semester 2006,3404,CS,101,003,Lab,Living with Computers,20,20
+200620,Spring Semester 2006,3405,CS,101,004,Lab,Living with Computers,20,21
+200620,Spring Semester 2006,3406,CS,101,005,Lab,Living with Computers,20,13
+200620,Spring Semester 2006,3407,CS,101,006,Lab,Living with Computers,20,23
+200620,Spring Semester 2006,3458,CS,135,001,Lecture,Select Top in Comp Science,25,4
+200620,Spring Semester 2006,3408,CS,144,001,Lecture,Intro to Computer Science,30,9
+200620,Spring Semester 2006,3409,CS,144,002,Lab,Intro to Computer Science,30,9
+200620,Spring Semester 2006,3410,CS,145,001,Lab,Intro to Object-Oriented Prog,30,11
+200620,Spring Semester 2006,3418,CS,145,002,Lecture,Intro to Object-Oriented Prog,30,11
+200620,Spring Semester 2006,3411,CS,245,001,Lab,Adv Computer Programming,30,2
+200620,Spring Semester 2006,3419,CS,245,002,Lecture,Adv Computer Programming,30,2
+200620,Spring Semester 2006,3412,CS,325,001,Lab,Comp Hardware Inst & Main,15,4
+200620,Spring Semester 2006,3413,CS,327,001,Lecture,Hands on UNIX,25,6
+200620,Spring Semester 2006,3864,CS,328,001,Internet Course,C and Unix,20,6
+200620,Spring Semester 2006,4551,CS,335,001,Lecture,Select Top in Comp Science,3,3
+200620,Spring Semester 2006,4556,CS,335,002,Lecture,Select Top in Comp Science,20,8
+200620,Spring Semester 2006,3423,CS,345,001,Lecture,Data & File Structures,0,0
+200620,Spring Semester 2006,3424,CS,345,002,Lab,Data & File Structures,0,0
+200620,Spring Semester 2006,3414,CS,350,001,Lecture,Programming Seminar 1,25,3
+200620,Spring Semester 2006,3415,CS,350,002,Lab,Programming Seminar 1,25,3
+200620,Spring Semester 2006,4111,CS,380,001,Lecture,Computer Modeling & Simulation,25,8
+200620,Spring Semester 2006,3425,CS,421,001,Lecture,Adv Data Struct & Alg Dev,30,2
+200620,Spring Semester 2006,4354,CS,421,002,Interactive TV,Adv Data Struct & Alg Dev,30,0
+200620,Spring Semester 2006,3427,CS,443,001,Lecture,Operating Systems,30,9
+200620,Spring Semester 2006,4356,CS,443,002,Interactive TV,Operating Systems,30,1
+200620,Spring Semester 2006,3430,CS,481,001,Lecture,Senior Project Design,15,3
+200620,Spring Semester 2006,3429,CS,482,001,Lecture,Senior Project Implementation,15,4
+200620,Spring Semester 2006,3431,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200620,Spring Semester 2006,3436,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200620,Spring Semester 2006,4348,CS,515,001,Lecture,Java Programming,10,1
+200620,Spring Semester 2006,4349,CS,515,002,Lab,Java Programming,10,1
+200620,Spring Semester 2006,3417,CS,516,001,Lab,Adv Comp Prg Data Structure,10,1
+200620,Spring Semester 2006,3421,CS,516,002,Lecture,Adv Comp Prg Data Structure,10,1
+200620,Spring Semester 2006,3426,CS,521,001,Lecture,Adv Data Struct & Algorith Dev,10,1
+200620,Spring Semester 2006,4355,CS,521,002,Interactive TV,Adv Data Struct & Algorith Dev,30,0
+200620,Spring Semester 2006,4530,CS,527,001,Lecture,UNIX & Systems Administration,25,2
+200620,Spring Semester 2006,3865,CS,528,001,Internet Course,C and Unix,10,9
+200620,Spring Semester 2006,3459,CS,535,001,Lecture,ST:  Computer Science,3,1
+200620,Spring Semester 2006,3460,CS,535,002,Lecture,ST:  Computer Science,25,0
+200620,Spring Semester 2006,4364,CS,535,003,Lecture,ST:  Computer Science,3,3
+200620,Spring Semester 2006,3428,CS,543,001,Lecture,Operating Systems,10,1
+200620,Spring Semester 2006,4357,CS,543,002,Interactive TV,Operating Systems,30,0
+200620,Spring Semester 2006,3432,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,4
+200620,Spring Semester 2006,3437,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200620,Spring Semester 2006,3433,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200620,Spring Semester 2006,3438,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200620,Spring Semester 2006,3422,CS,610,001,Lecture,Synthesis of Media Arts & CS,20,1
+200620,Spring Semester 2006,3434,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200620,Spring Semester 2006,3439,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200620,Spring Semester 2006,3435,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,2
+200620,Spring Semester 2006,3440,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+200630,Summer Semester 2006,1127,CS,101,001,Lecture,Living with Computers,0,0
+200630,Summer Semester 2006,1128,CS,101,002,Lab,Living with Computers,0,0
+200630,Summer Semester 2006,1129,CS,245,001,Lecture,Adv Computer Programming,0,0
+200630,Summer Semester 2006,1130,CS,245,002,Lab,Adv Computer Programming,0,0
+200630,Summer Semester 2006,1509,CS,335,001,Lecture,Select Top in Comp Science,0,0
+200630,Summer Semester 2006,1131,CS,516,001,Lecture,Adv Comp Prg Data Structure,0,0
+200630,Summer Semester 2006,1132,CS,516,002,Lab,Adv Comp Prg Data Structure,0,0
+200630,Summer Semester 2006,1619,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+200710,Fall Semester 2006,2754,CS,101,001,Lecture,Living with Computers,50,45
+200710,Fall Semester 2006,2755,CS,101,002,Lecture,Living with Computers,50,44
+200710,Fall Semester 2006,2756,CS,101,003,Lab,Living with Computers,20,18
+200710,Fall Semester 2006,2757,CS,101,004,Lab,Living with Computers,20,17
+200710,Fall Semester 2006,2758,CS,101,005,Lab,Living with Computers,20,19
+200710,Fall Semester 2006,2759,CS,101,006,Lab,Living with Computers,20,19
+200710,Fall Semester 2006,3752,CS,101,007,Lab,Living with Computers,20,16
+200710,Fall Semester 2006,2760,CS,144,001,Lecture,Intro to Computer Science,25,25
+200710,Fall Semester 2006,2761,CS,144,002,Lab,Intro to Computer Science,25,25
+200710,Fall Semester 2006,2762,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,7
+200710,Fall Semester 2006,2763,CS,145,002,Lab,Intro to Object-Oriented Prog,25,7
+200710,Fall Semester 2006,2764,CS,245,001,Lecture,Adv Computer Programming,25,2
+200710,Fall Semester 2006,2765,CS,245,002,Lab,Adv Computer Programming,25,2
+200710,Fall Semester 2006,3322,CS,314,001,Lecture,"The ""C++"" Prog Language",25,5
+200710,Fall Semester 2006,3323,CS,314,002,Lab,"The ""C++"" Prog Language",25,5
+200710,Fall Semester 2006,3346,CS,335,001,Lecture,Select Top in Comp Science,0,0
+200710,Fall Semester 2006,3347,CS,335,002,Lecture,Select Top in Comp Science,0,0
+200710,Fall Semester 2006,2766,CS,431,001,Lecture,Database Management,25,6
+200710,Fall Semester 2006,3482,CS,431,002,Interactive TV,Database Management,0,0
+200710,Fall Semester 2006,3324,CS,450,001,Lecture,Programming Seminar 2,25,1
+200710,Fall Semester 2006,3325,CS,450,002,Lab,Programming Seminar 2,25,1
+200710,Fall Semester 2006,2767,CS,459,001,Lecture,Network Security,25,7
+200710,Fall Semester 2006,3452,CS,459,002,Lecture,Network Security,0,0
+200710,Fall Semester 2006,2769,CS,472,001,Lecture,Cognitive Science,25,2
+200710,Fall Semester 2006,2768,CS,474,001,Lecture,Machine Learning Algorithms,25,2
+200710,Fall Semester 2006,2771,CS,482,001,Lecture,Senior Project Implementation,10,5
+200710,Fall Semester 2006,2772,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+200710,Fall Semester 2006,2773,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,10,0
+200710,Fall Semester 2006,3496,CS,514,001,Lecture,The C++ Programming Language,15,0
+200710,Fall Semester 2006,3497,CS,514,002,Lab,The C++ Programming Language,15,0
+200710,Fall Semester 2006,2774,CS,515,001,Lecture,Java Programming,25,2
+200710,Fall Semester 2006,2775,CS,515,002,Lab,Java Programming,25,2
+200710,Fall Semester 2006,2776,CS,516,001,Lecture,Adv Comp Prg Data Structure,25,1
+200710,Fall Semester 2006,2777,CS,516,002,Lab,Adv Comp Prg Data Structure,25,1
+200710,Fall Semester 2006,3708,CS,518,001,Lecture,Multimedia Programming,15,1
+200710,Fall Semester 2006,3709,CS,518,002,Lab,Multimedia Programming,15,1
+200710,Fall Semester 2006,3320,CS,531,001,Lecture,Database Management,25,0
+200710,Fall Semester 2006,2780,CS,559,001,Lecture,Network Security,25,6
+200710,Fall Semester 2006,3321,CS,572,001,Lecture,Cognitive Science,25,0
+200710,Fall Semester 2006,2779,CS,574,001,Lecture,Machine Learning Algorithms,25,8
+200710,Fall Semester 2006,2782,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,10,0
+200710,Fall Semester 2006,2783,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,10,0
+200710,Fall Semester 2006,2784,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,10,0
+200710,Fall Semester 2006,2785,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,10,0
+200710,Fall Semester 2006,2786,CS,600,001,Lecture,Prin Media Arts & Comp Sci,25,8
+200710,Fall Semester 2006,2787,CS,620,001,Lecture,Multimedia Project Development,25,5
+200710,Fall Semester 2006,2788,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,10,1
+200710,Fall Semester 2006,2789,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,10,0
+200710,Fall Semester 2006,2790,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,3
+200710,Fall Semester 2006,2791,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,10,1
+200720,Spring Semester 2007,3368,CS,101,001,Lecture,Living with Computers,40,39
+200720,Spring Semester 2007,3369,CS,101,002,Lecture,Living with Computers,40,40
+200720,Spring Semester 2007,3370,CS,101,003,Lab,Living with Computers,20,20
+200720,Spring Semester 2007,3371,CS,101,004,Lab,Living with Computers,20,20
+200720,Spring Semester 2007,3372,CS,101,005,Lab,Living with Computers,20,18
+200720,Spring Semester 2007,3373,CS,101,006,Lab,Living with Computers,20,21
+200720,Spring Semester 2007,3374,CS,144,001,Lecture,Intro to Computer Science,25,15
+200720,Spring Semester 2007,3375,CS,144,002,Lab,Intro to Computer Science,25,15
+200720,Spring Semester 2007,3376,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,12
+200720,Spring Semester 2007,3377,CS,145,002,Lab,Intro to Object-Oriented Prog,20,12
+200720,Spring Semester 2007,3380,CS,245,001,Lecture,Adv Computer Programming,20,5
+200720,Spring Semester 2007,3381,CS,245,002,Lab,Adv Computer Programming,20,5
+200720,Spring Semester 2007,4501,CS,325,001,Lab,Comp Hardware Inst & Main,25,8
+200720,Spring Semester 2007,4502,CS,326,001,Lab,Comp Software Installation,25,8
+200720,Spring Semester 2007,3386,CS,327,001,Lecture,Hands on UNIX,20,4
+200720,Spring Semester 2007,4578,CS,335,001,Lecture,Select Top in Comp Science,20,11
+200720,Spring Semester 2007,4616,CS,335,002,Lecture,Select Top in Comp Science,20,1
+200720,Spring Semester 2007,4505,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,0,0
+200720,Spring Semester 2007,3384,CS,350,001,Lecture,Programming Seminar 1,20,6
+200720,Spring Semester 2007,3385,CS,350,002,Lab,Programming Seminar 1,20,6
+200720,Spring Semester 2007,4506,CS,350,003,Lecture,Programming Seminar 1,0,0
+200720,Spring Semester 2007,3388,CS,481,001,Lecture,Senior Project Design,10,2
+200720,Spring Semester 2007,3389,CS,482,001,Lecture,Senior Project Implementation,10,6
+200720,Spring Semester 2007,4503,CS,483,001,Lecture,Senior Project Presentation,10,1
+200720,Spring Semester 2007,3391,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200720,Spring Semester 2007,3392,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200720,Spring Semester 2007,3378,CS,515,001,Lecture,Java Programming,20,5
+200720,Spring Semester 2007,3379,CS,515,002,Lab,Java Programming,20,5
+200720,Spring Semester 2007,3382,CS,516,001,Lecture,Adv Comp Prg Data Structure,25,0
+200720,Spring Semester 2007,3383,CS,516,002,Lab,Adv Comp Prg Data Structure,25,0
+200720,Spring Semester 2007,3387,CS,527,001,Lecture,UNIX & Systems Administration,20,0
+200720,Spring Semester 2007,4579,CS,535,001,Lecture,ST:  Computer Science,20,11
+200720,Spring Semester 2007,4720,CS,535,002,Lecture,ST:  Computer Science,20,2
+200720,Spring Semester 2007,4728,CS,535,003,Lecture,ST:  Computer Science,5,2
+200720,Spring Semester 2007,3393,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,4
+200720,Spring Semester 2007,3394,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200720,Spring Semester 2007,3395,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200720,Spring Semester 2007,3396,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200720,Spring Semester 2007,3390,CS,610,001,Lecture,Synthesis of Media Arts & CS,15,8
+200720,Spring Semester 2007,3397,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,1
+200720,Spring Semester 2007,3398,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200720,Spring Semester 2007,3399,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+200720,Spring Semester 2007,3400,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+200730,Summer Semester 2007,1433,CS,101,001,Lecture,Living with Computers,0,0
+200730,Summer Semester 2007,1434,CS,101,002,Lab,Living with Computers,0,0
+200730,Summer Semester 2007,1506,CS,335,001,Lecture,Select Top in Comp Science,0,0
+200730,Summer Semester 2007,1121,CS,463,001,Internet Course,Web Programming,0,0
+200730,Summer Semester 2007,1515,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200730,Summer Semester 2007,1417,CS,535,001,Internet Course,ST:  Computer Science,0,0
+200730,Summer Semester 2007,1122,CS,563,001,Internet Course,Web Programming,0,0
+200730,Summer Semester 2007,1530,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+200730,Summer Semester 2007,1526,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,10,0
+200730,Summer Semester 2007,1527,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,3
+200810,Fall Semester 2007,2492,CS,101,001,Lecture,Living with Computers,40,36
+200810,Fall Semester 2007,2493,CS,101,002,Lecture,Living with Computers,40,38
+200810,Fall Semester 2007,2494,CS,101,003,Lab,Living with Computers,20,19
+200810,Fall Semester 2007,2495,CS,101,004,Lab,Living with Computers,20,19
+200810,Fall Semester 2007,2496,CS,101,005,Lab,Living with Computers,20,18
+200810,Fall Semester 2007,2497,CS,101,006,Lab,Living with Computers,20,18
+200810,Fall Semester 2007,2498,CS,144,001,Lecture,Intro to Computer Science,25,23
+200810,Fall Semester 2007,2499,CS,144,002,Lab,Intro to Computer Science,25,23
+200810,Fall Semester 2007,2500,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,11
+200810,Fall Semester 2007,2501,CS,145,002,Lab,Intro to Object-Oriented Prog,25,11
+200810,Fall Semester 2007,2502,CS,245,001,Lecture,Adv Computer Programming,0,0
+200810,Fall Semester 2007,2503,CS,245,002,Lab,Adv Computer Programming,0,0
+200810,Fall Semester 2007,2504,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,25,9
+200810,Fall Semester 2007,2505,CS,443,001,Lecture,Operating Systems,25,4
+200810,Fall Semester 2007,2506,CS,451,001,Lecture,Software Engineering,25,9
+200810,Fall Semester 2007,2507,CS,457,001,Lecture,Computer Networks,25,8
+200810,Fall Semester 2007,3893,CS,463,001,Lecture/Lab,Web Programming,15,2
+200810,Fall Semester 2007,2508,CS,481,001,Lecture,Senior Project Design,25,3
+200810,Fall Semester 2007,2509,CS,482,001,Lecture,Senior Project Implementation,5,3
+200810,Fall Semester 2007,2510,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200810,Fall Semester 2007,2511,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200810,Fall Semester 2007,3894,CS,512,001,Lecture/Lab,Scripting Languages,15,2
+200810,Fall Semester 2007,2512,CS,515,001,Lecture,Java Programming,25,3
+200810,Fall Semester 2007,2513,CS,515,002,Lab,Java Programming,25,3
+200810,Fall Semester 2007,2514,CS,516,001,Lecture,Adv Comp Prg Data Structure,25,5
+200810,Fall Semester 2007,2515,CS,516,002,Lab,Adv Comp Prg Data Structure,25,5
+200810,Fall Semester 2007,3876,CS,535,001,Internet Course,ST:  Computer Science,15,4
+200810,Fall Semester 2007,3824,CS,543,001,Lecture,Operating Systems,0,0
+200810,Fall Semester 2007,2528,CS,551,002,Lecture,Software Engineering,15,6
+200810,Fall Semester 2007,2517,CS,557,001,Lecture,Computer Networks,25,10
+200810,Fall Semester 2007,2518,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200810,Fall Semester 2007,2519,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200810,Fall Semester 2007,2520,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200810,Fall Semester 2007,2521,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200810,Fall Semester 2007,2522,CS,600,001,Lecture,Prin Media Arts & Comp Sci,25,8
+200810,Fall Semester 2007,2523,CS,620,001,Lecture,Multimedia Project Development,25,6
+200810,Fall Semester 2007,2524,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,1
+200810,Fall Semester 2007,2525,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200810,Fall Semester 2007,2526,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+200810,Fall Semester 2007,2527,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200820,Spring Semester 2008,3270,CS,101,001,Lecture,Living with Computers,40,40
+200820,Spring Semester 2008,3271,CS,101,002,Lecture,Living with Computers,40,28
+200820,Spring Semester 2008,3272,CS,101,003,Lab,Living with Computers,20,16
+200820,Spring Semester 2008,3273,CS,101,004,Lab,Living with Computers,20,12
+200820,Spring Semester 2008,3274,CS,101,005,Lab,Living with Computers,20,21
+200820,Spring Semester 2008,3275,CS,101,006,Lab,Living with Computers,20,19
+200820,Spring Semester 2008,3276,CS,144,001,Lecture,Intro to Computer Science,25,18
+200820,Spring Semester 2008,3277,CS,144,002,Lab,Intro to Computer Science,25,18
+200820,Spring Semester 2008,3278,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,18
+200820,Spring Semester 2008,3279,CS,145,002,Lab,Intro to Object-Oriented Prog,25,18
+200820,Spring Semester 2008,3280,CS,245,001,Lecture,Adv Computer Programming,20,2
+200820,Spring Semester 2008,3281,CS,245,002,Lab,Adv Computer Programming,20,2
+200820,Spring Semester 2008,4418,CS,328,001,Lecture,C and Unix,20,10
+200820,Spring Semester 2008,3284,CS,345,001,Lecture,Data & File Structures,20,9
+200820,Spring Semester 2008,3285,CS,345,002,Lab,Data & File Structures,20,9
+200820,Spring Semester 2008,3288,CS,421,001,Lecture,Adv Data Struct & Alg Dev,0,0
+200820,Spring Semester 2008,3286,CS,431,001,Lecture,Database Management,20,8
+200820,Spring Semester 2008,3292,CS,450,001,Lecture,Programming Seminar 2,20,6
+200820,Spring Semester 2008,3293,CS,450,002,Lab,Programming Seminar 2,20,6
+200820,Spring Semester 2008,3294,CS,473,001,Lecture,Artificial Neural Networks,20,1
+200820,Spring Semester 2008,4658,CS,481,001,Lecture,Senior Project Design,5,2
+200820,Spring Semester 2008,4417,CS,482,001,Lecture,Senior Project Implementation,5,3
+200820,Spring Semester 2008,3291,CS,483,001,Lecture,Senior Project Presentation,10,1
+200820,Spring Semester 2008,4678,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200820,Spring Semester 2008,4679,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200820,Spring Semester 2008,4680,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+200820,Spring Semester 2008,4800,CS,490,004,Ind Study/Research/Thesis/Proj,Independent Study,15,2
+200820,Spring Semester 2008,4576,CS,514,001,Lecture,The C++ Programming Language,0,0
+200820,Spring Semester 2008,4577,CS,514,002,Lab,The C++ Programming Language,0,0
+200820,Spring Semester 2008,3302,CS,515,001,Lecture,Java Programming,10,4
+200820,Spring Semester 2008,3303,CS,515,002,Lab,Java Programming,10,4
+200820,Spring Semester 2008,3282,CS,516,001,Lecture,Adv Comp Prg Data Structure,5,7
+200820,Spring Semester 2008,3283,CS,516,002,Lab,Adv Comp Prg Data Structure,5,7
+200820,Spring Semester 2008,3289,CS,521,001,Lecture,Adv Data Struct & Algorith Dev,0,0
+200820,Spring Semester 2008,4419,CS,528,001,Lecture,C and Unix,20,8
+200820,Spring Semester 2008,3287,CS,531,001,Lecture,Database Management,10,8
+200820,Spring Semester 2008,3295,CS,573,001,Lecture,Artificial Neural Networks,10,5
+200820,Spring Semester 2008,3300,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+200820,Spring Semester 2008,3304,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,1,2
+200820,Spring Semester 2008,4566,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200820,Spring Semester 2008,3301,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+200820,Spring Semester 2008,3305,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+200820,Spring Semester 2008,3290,CS,610,001,Lecture,Synthesis of Media Arts & CS,15,7
+200820,Spring Semester 2008,3296,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200820,Spring Semester 2008,3298,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,1
+200820,Spring Semester 2008,3297,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,0,0
+200820,Spring Semester 2008,3299,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,6
+200830,Summer Semester 2008,1622,CS,481,001,Lecture,Senior Project Design,10,1
+200830,Summer Semester 2008,1624,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+200830,Summer Semester 2008,1625,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200830,Summer Semester 2008,1626,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+200830,Summer Semester 2008,1061,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,0,0
+200830,Summer Semester 2008,1062,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,2
+200910,Fall Semester 2008,2139,CS,101,001,Lecture,Living with Computers,40,40
+200910,Fall Semester 2008,2140,CS,101,002,Lecture,Living with Computers,40,37
+200910,Fall Semester 2008,2141,CS,101,003,Lab,Living with Computers,20,22
+200910,Fall Semester 2008,2142,CS,101,004,Lab,Living with Computers,20,19
+200910,Fall Semester 2008,2143,CS,101,005,Lab,Living with Computers,20,18
+200910,Fall Semester 2008,2144,CS,101,006,Lab,Living with Computers,20,18
+200910,Fall Semester 2008,3696,CS,101,007,Lecture,Living with Computers,0,0
+200910,Fall Semester 2008,3697,CS,101,008,Lab,Living with Computers,0,0
+200910,Fall Semester 2008,3698,CS,101,009,Lab,Living with Computers,0,0
+200910,Fall Semester 2008,2133,CS,144,001,Lecture,Intro to Computer Science,25,24
+200910,Fall Semester 2008,2134,CS,144,002,Lab,Intro to Computer Science,25,24
+200910,Fall Semester 2008,2135,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,21
+200910,Fall Semester 2008,2136,CS,145,002,Lab,Intro to Object-Oriented Prog,20,21
+200910,Fall Semester 2008,2145,CS,245,001,Lecture,Adv Computer Programming,25,4
+200910,Fall Semester 2008,2146,CS,245,002,Lab,Adv Computer Programming,25,4
+200910,Fall Semester 2008,2149,CS,350,001,Lecture,Programming Seminar 1,20,7
+200910,Fall Semester 2008,2150,CS,350,002,Lab,Programming Seminar 1,20,6
+200910,Fall Semester 2008,2151,CS,451,001,Lecture,Software Engineering,25,4
+200910,Fall Semester 2008,2153,CS,461,001,Lecture,Programming Languages,25,8
+200910,Fall Semester 2008,2155,CS,463,001,Lecture/Lab,Web Programming,20,7
+200910,Fall Semester 2008,2157,CS,481,001,Lecture,Senior Project Design,5,2
+200910,Fall Semester 2008,2158,CS,482,001,Lecture,Senior Project Implementation,5,3
+200910,Fall Semester 2008,2161,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200910,Fall Semester 2008,2162,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200910,Fall Semester 2008,3720,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200910,Fall Semester 2008,2137,CS,515,001,Lecture,Java Programming,20,2
+200910,Fall Semester 2008,2138,CS,515,002,Lab,Java Programming,20,2
+200910,Fall Semester 2008,2147,CS,516,001,Lecture,Adv Comp Prg Data Structure,10,1
+200910,Fall Semester 2008,2148,CS,516,002,Lab,Adv Comp Prg Data Structure,10,1
+200910,Fall Semester 2008,2152,CS,551,001,Lecture,Software Engineering,15,5
+200910,Fall Semester 2008,2154,CS,561,001,Lecture,Programming Languages,15,2
+200910,Fall Semester 2008,2156,CS,563,001,Lecture,Web Programming,15,6
+200910,Fall Semester 2008,2163,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+200910,Fall Semester 2008,2164,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200910,Fall Semester 2008,2165,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200910,Fall Semester 2008,2166,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200910,Fall Semester 2008,2167,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+200910,Fall Semester 2008,2159,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,5
+200910,Fall Semester 2008,2160,CS,620,001,Lecture,Multimedia Project Development,20,9
+200910,Fall Semester 2008,2168,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200910,Fall Semester 2008,2257,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,1
+200910,Fall Semester 2008,3764,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200910,Fall Semester 2008,2256,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+200910,Fall Semester 2008,2258,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200910,Fall Semester 2008,3754,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,1
+200920,Spring Semester 2009,3666,CS,101,001,Lecture,Living with Computers,40,40
+200920,Spring Semester 2009,3667,CS,101,002,Lecture,Living with Computers,40,36
+200920,Spring Semester 2009,3668,CS,101,003,Lab,Living with Computers,20,19
+200920,Spring Semester 2009,3669,CS,101,004,Lab,Living with Computers,20,20
+200920,Spring Semester 2009,3670,CS,101,005,Lab,Living with Computers,20,19
+200920,Spring Semester 2009,3671,CS,101,006,Lab,Living with Computers,20,18
+200920,Spring Semester 2009,3672,CS,144,001,Lecture,Intro to Computer Science,25,15
+200920,Spring Semester 2009,3673,CS,144,002,Lab,Intro to Computer Science,25,15
+200920,Spring Semester 2009,3674,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,13
+200920,Spring Semester 2009,3675,CS,145,002,Lab,Intro to Object-Oriented Prog,25,13
+200920,Spring Semester 2009,3676,CS,245,001,Lecture,Adv Computer Programming,25,7
+200920,Spring Semester 2009,3677,CS,245,002,Lab,Adv Computer Programming,25,7
+200920,Spring Semester 2009,3681,CS,328,001,Lecture,C and Unix,25,11
+200920,Spring Semester 2009,4463,CS,335,001,Lecture,Select Top in Comp Science,20,17
+200920,Spring Semester 2009,4568,CS,335,002,Interactive TV,Select Top in Comp Science,30,1
+200920,Spring Semester 2009,4569,CS,335,003,Interactive TV,Select Top in Comp Science,30,5
+200920,Spring Semester 2009,4570,CS,335,004,Interactive TV,Select Top in Comp Science,30,1
+200920,Spring Semester 2009,3685,CS,421,001,Lecture,Adv Data Struct & Alg Dev,25,5
+200920,Spring Semester 2009,4395,CS,435,001,Lecture,Select Top in Comp Science,20,9
+200920,Spring Semester 2009,3683,CS,474,001,Lecture,Machine Learning Algorithms,15,3
+200920,Spring Semester 2009,3680,CS,481,001,Lecture,Senior Project Design,20,1
+200920,Spring Semester 2009,3687,CS,482,001,Lecture,Senior Project Implementation,15,5
+200920,Spring Semester 2009,3688,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200920,Spring Semester 2009,3689,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200920,Spring Semester 2009,3690,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200920,Spring Semester 2009,3691,CS,515,001,Lecture,Java Programming,25,2
+200920,Spring Semester 2009,3692,CS,515,002,Lab,Java Programming,25,2
+200920,Spring Semester 2009,3678,CS,516,001,Lecture,Adv Comp Prg Data Structure,10,2
+200920,Spring Semester 2009,3679,CS,516,002,Lab,Adv Comp Prg Data Structure,10,2
+200920,Spring Semester 2009,3686,CS,521,001,Lecture,Adv Data Struct & Algorith Dev,25,2
+200920,Spring Semester 2009,3682,CS,528,001,Lecture,C and Unix,10,6
+200920,Spring Semester 2009,4396,CS,535,001,Lecture,ST:  Computer Science,20,3
+200920,Spring Semester 2009,4581,CS,535,002,Interactive TV,ST:  Computer Science,15,6
+200920,Spring Semester 2009,3684,CS,574,001,Lecture,Machine Learning Algorithms,15,10
+200920,Spring Semester 2009,4742,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200920,Spring Semester 2009,3693,CS,610,001,Lecture,Synthesis of Media Arts & CS,30,7
+200920,Spring Semester 2009,4613,CS,690,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200920,Spring Semester 2009,3694,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200920,Spring Semester 2009,3695,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200920,Spring Semester 2009,3696,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200920,Spring Semester 2009,3697,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200920,Spring Semester 2009,3698,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200920,Spring Semester 2009,3699,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,3
+200930,Summer Semester 2009,1615,CS,328,001,Lecture,C and Unix,25,7
+200930,Summer Semester 2009,1299,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200930,Summer Semester 2009,1300,CS,490,004,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200930,Summer Semester 2009,1616,CS,528,001,Lecture,C and Unix,25,1
+200930,Summer Semester 2009,1301,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200930,Summer Semester 2009,1302,CS,590,004,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200930,Summer Semester 2009,1307,CS,690,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+200930,Summer Semester 2009,1308,CS,690,004,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200930,Summer Semester 2009,1671,CS,690,005,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+200930,Summer Semester 2009,1303,CS,697,004,Ind Study/Research/Thesis/Proj,Field Project,5,1
+200930,Summer Semester 2009,1309,CS,697,005,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200930,Summer Semester 2009,1310,CS,697,006,Ind Study/Research/Thesis/Proj,Field Project,5,0
+200930,Summer Semester 2009,1304,CS,699,004,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200930,Summer Semester 2009,1305,CS,699,005,Ind Study/Research/Thesis/Proj,Thesis,5,0
+200930,Summer Semester 2009,1306,CS,699,006,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201010,Fall Semester 2009,3042,CS,101,001,Lecture,Living with Computers,40,38
+201010,Fall Semester 2009,3043,CS,101,002,Lecture,Living with Computers,40,39
+201010,Fall Semester 2009,3044,CS,101,003,Lab,Living with Computers,20,19
+201010,Fall Semester 2009,3045,CS,101,004,Lab,Living with Computers,20,20
+201010,Fall Semester 2009,3046,CS,101,005,Lab,Living with Computers,20,20
+201010,Fall Semester 2009,3047,CS,101,006,Lab,Living with Computers,20,18
+201010,Fall Semester 2009,3670,CS,101,007,Lecture,Living with Computers,21,19
+201010,Fall Semester 2009,3671,CS,101,008,Lab,Living with Computers,21,19
+201010,Fall Semester 2009,3672,CS,101,009,Interactive TV,Living with Computers,20,23
+201010,Fall Semester 2009,3673,CS,101,010,Lab,Living with Computers,20,23
+201010,Fall Semester 2009,3048,CS,144,001,Lecture,Intro to Computer Science,25,17
+201010,Fall Semester 2009,3049,CS,144,002,Lab,Intro to Computer Science,25,17
+201010,Fall Semester 2009,3050,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,11
+201010,Fall Semester 2009,3051,CS,145,002,Lab,Intro to Object-Oriented Prog,20,11
+201010,Fall Semester 2009,3054,CS,245,001,Lecture,Adv Computer Programming,20,7
+201010,Fall Semester 2009,3055,CS,245,002,Lab,Adv Computer Programming,20,7
+201010,Fall Semester 2009,3060,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,20,11
+201010,Fall Semester 2009,3058,CS,350,001,Lecture,Programming Seminar 1,20,7
+201010,Fall Semester 2009,3059,CS,350,002,Lab,Programming Seminar 1,20,7
+201010,Fall Semester 2009,3061,CS,431,001,Lecture,Database Management,20,4
+201010,Fall Semester 2009,3065,CS,443,001,Lecture,Operating Systems,20,8
+201010,Fall Semester 2009,3063,CS,450,001,Lecture,Programming Seminar 2,20,3
+201010,Fall Semester 2009,3064,CS,450,002,Lab,Programming Seminar 2,20,3
+201010,Fall Semester 2009,3731,CS,463,001,Lecture,Web Programming,25,2
+201010,Fall Semester 2009,3854,CS,464,001,Lecture,Network Programming,25,1
+201010,Fall Semester 2009,3069,CS,481,001,Lecture,Senior Project Design,10,3
+201010,Fall Semester 2009,3070,CS,482,001,Lecture,Senior Project Implementation,10,2
+201010,Fall Semester 2009,3071,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201010,Fall Semester 2009,3072,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201010,Fall Semester 2009,3073,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201010,Fall Semester 2009,3052,CS,515,001,Lecture,Java Programming,10,1
+201010,Fall Semester 2009,3053,CS,515,002,Lab,Java Programming,10,1
+201010,Fall Semester 2009,3056,CS,516,001,Lecture,Adv Comp Prg Data Structure,10,3
+201010,Fall Semester 2009,3057,CS,516,002,Lab,Adv Comp Prg Data Structure,10,2
+201010,Fall Semester 2009,3062,CS,531,001,Lecture,Database Management,20,10
+201010,Fall Semester 2009,3066,CS,543,001,Lecture,Operating Systems,20,10
+201010,Fall Semester 2009,3732,CS,563,001,Lecture,Web Programming,25,8
+201010,Fall Semester 2009,3855,CS,564,001,Lecture,Network Programming,25,6
+201010,Fall Semester 2009,3074,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201010,Fall Semester 2009,3075,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201010,Fall Semester 2009,3076,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201010,Fall Semester 2009,3077,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,5,1
+201010,Fall Semester 2009,3078,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,5,1
+201010,Fall Semester 2009,3079,CS,592,003,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+201010,Fall Semester 2009,3068,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,8
+201010,Fall Semester 2009,3067,CS,620,001,Lecture,Multimedia Project Development,15,7
+201010,Fall Semester 2009,3083,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,1
+201010,Fall Semester 2009,3084,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201010,Fall Semester 2009,3085,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201010,Fall Semester 2009,3080,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+201010,Fall Semester 2009,3081,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201010,Fall Semester 2009,3082,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201020,Spring Semester 2010,4101,CS,101,001,Lecture,Living with Computers,30,29
+201020,Spring Semester 2010,4102,CS,101,002,Lecture,Living with Computers,20,19
+201020,Spring Semester 2010,4103,CS,101,003,Lab,Living with Computers,20,19
+201020,Spring Semester 2010,4104,CS,101,004,Lab,Living with Computers,15,14
+201020,Spring Semester 2010,4105,CS,101,005,Lab,Living with Computers,15,14
+201020,Spring Semester 2010,4106,CS,101,006,Lab,Living with Computers,15,14
+201020,Spring Semester 2010,4107,CS,101,007,Lab,Living with Computers,15,15
+201020,Spring Semester 2010,4144,CS,101,008,Lecture,Living with Computers,30,30
+201020,Spring Semester 2010,4627,CS,101,009,Interactive TV,Living with Computers,25,6
+201020,Spring Semester 2010,4628,CS,101,010,Lab,Living with Computers,25,6
+201020,Spring Semester 2010,4814,CS,135,001,Lecture,Select Top in Comp Science,6,5
+201020,Spring Semester 2010,4110,CS,144,001,Lecture,Intro to Computer Science,20,18
+201020,Spring Semester 2010,4111,CS,144,002,Lab,Intro to Computer Science,20,18
+201020,Spring Semester 2010,4140,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,16
+201020,Spring Semester 2010,4141,CS,145,002,Lab,Intro to Object-Oriented Prog,20,16
+201020,Spring Semester 2010,4126,CS,245,001,Lecture,Adv Computer Programming,20,12
+201020,Spring Semester 2010,4127,CS,245,002,Lab,Adv Computer Programming,20,12
+201020,Spring Semester 2010,4776,CS,350,002,Lecture,Programming Seminar 1,25,3
+201020,Spring Semester 2010,4777,CS,350,003,Interactive TV,Programming Seminar 1,25,2
+201020,Spring Semester 2010,4778,CS,350,004,Interactive TV,Programming Seminar 1,25,0
+201020,Spring Semester 2010,4112,CS,351,001,Lecture,Systems Design & Analysis,20,10
+201020,Spring Semester 2010,4130,CS,421,001,Lecture,Adv Data Struct & Alg Dev,20,8
+201020,Spring Semester 2010,4779,CS,431,001,Lecture,Database Management,25,3
+201020,Spring Semester 2010,4780,CS,431,002,Interactive TV,Database Management,25,3
+201020,Spring Semester 2010,4781,CS,431,003,Interactive TV,Database Management,25,1
+201020,Spring Semester 2010,4811,CS,435,001,Lecture,Select Top in Comp Science,25,2
+201020,Spring Semester 2010,4145,CS,451,001,Lecture,Software Engineering,20,9
+201020,Spring Semester 2010,4132,CS,461,001,Lecture,Programming Languages,20,8
+201020,Spring Semester 2010,4134,CS,481,001,Lecture,Senior Project Design,20,5
+201020,Spring Semester 2010,4147,CS,482,001,Lecture,Senior Project Implementation,20,5
+201020,Spring Semester 2010,4116,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,20,1
+201020,Spring Semester 2010,4121,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+201020,Spring Semester 2010,4135,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201020,Spring Semester 2010,4142,CS,515,001,Lecture,Java Programming,10,1
+201020,Spring Semester 2010,4143,CS,515,002,Lab,Java Programming,10,1
+201020,Spring Semester 2010,4128,CS,516,001,Lecture,Adv Comp Prg Data Structure,20,1
+201020,Spring Semester 2010,4129,CS,516,002,Lab,Adv Comp Prg Data Structure,20,1
+201020,Spring Semester 2010,4131,CS,521,001,Lecture,Adv Data Struct & Algorith Dev,20,5
+201020,Spring Semester 2010,4782,CS,531,001,Lecture,Database Management,25,0
+201020,Spring Semester 2010,4783,CS,531,002,Interactive TV,Database Management,25,2
+201020,Spring Semester 2010,4784,CS,531,003,Interactive TV,Database Management,25,0
+201020,Spring Semester 2010,4737,CS,535,001,Lecture,ST:  Computer Science,0,0
+201020,Spring Semester 2010,4146,CS,551,001,Lecture,Software Engineering,10,12
+201020,Spring Semester 2010,4133,CS,561,001,Lecture,Programming Languages,20,4
+201020,Spring Semester 2010,4118,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+201020,Spring Semester 2010,4124,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+201020,Spring Semester 2010,4136,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201020,Spring Semester 2010,4115,CS,610,001,Lecture,Synthesis of Media Arts & CS,20,10
+201020,Spring Semester 2010,4789,CS,635,001,Lecture,ST:,25,7
+201020,Spring Semester 2010,4812,CS,635,002,Lecture,ST:,25,7
+201020,Spring Semester 2010,4119,CS,690,001,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+201020,Spring Semester 2010,4125,CS,690,002,Ind Study/Research/Thesis/Proj,Independent Study,10,2
+201020,Spring Semester 2010,4137,CS,690,003,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201020,Spring Semester 2010,4120,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,20,1
+201020,Spring Semester 2010,4122,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201020,Spring Semester 2010,4138,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201020,Spring Semester 2010,4117,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,9
+201020,Spring Semester 2010,4123,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,10,2
+201020,Spring Semester 2010,4139,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,10,1
+201030,Summer Semester 2010,1575,CS,690,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201030,Summer Semester 2010,1576,CS,690,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201030,Summer Semester 2010,1646,CS,690,003,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201030,Summer Semester 2010,1611,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201030,Summer Semester 2010,1640,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201110,Fall Semester 2010,3292,CS,101,001,Lecture,Living with Computers,30,31
+201110,Fall Semester 2010,3293,CS,101,002,Lab,Living with Computers,20,21
+201110,Fall Semester 2010,3294,CS,101,003,Lab,Living with Computers,20,20
+201110,Fall Semester 2010,3295,CS,101,004,Lab,Living with Computers,20,21
+201110,Fall Semester 2010,3296,CS,101,005,Lab,Living with Computers,20,18
+201110,Fall Semester 2010,3672,CS,101,006,Lecture,Living with Computers,20,20
+201110,Fall Semester 2010,3673,CS,101,007,Lecture,Living with Computers,30,29
+201110,Fall Semester 2010,3365,CS,144,001,Lecture,Intro to Computer Science,20,23
+201110,Fall Semester 2010,3366,CS,144,002,Lab,Intro to Computer Science,20,23
+201110,Fall Semester 2010,3458,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,10
+201110,Fall Semester 2010,3459,CS,145,002,Lab,Intro to Object-Oriented Prog,20,10
+201110,Fall Semester 2010,3297,CS,245,001,Lecture,Adv Computer Programming,20,7
+201110,Fall Semester 2010,3298,CS,245,002,Lab,Adv Computer Programming,20,7
+201110,Fall Semester 2010,3559,CS,314,001,Lecture,"The ""C++"" Prog Language",20,20
+201110,Fall Semester 2010,3560,CS,314,002,Lab,"The ""C++"" Prog Language",20,20
+201110,Fall Semester 2010,3462,CS,324,001,Lecture,UNIX Operating System,20,10
+201110,Fall Semester 2010,3463,CS,324,002,Lab,UNIX Operating System,20,10
+201110,Fall Semester 2010,3299,CS,345,001,Lecture,Data & File Structures,20,14
+201110,Fall Semester 2010,3300,CS,345,002,Lab,Data & File Structures,20,14
+201110,Fall Semester 2010,3756,CS,435,001,Lecture,Select Top in Comp Science,25,2
+201110,Fall Semester 2010,3786,CS,436,001,Lecture,Human-Computer Interaction,25,1
+201110,Fall Semester 2010,3788,CS,436,002,Interactive TV,Human-Computer Interaction,25,2
+201110,Fall Semester 2010,3790,CS,436,003,Interactive TV,Human-Computer Interaction,25,0
+201110,Fall Semester 2010,3302,CS,450,001,Lecture,Programming Seminar 2,20,11
+201110,Fall Semester 2010,3303,CS,450,002,Lab,Programming Seminar 2,20,11
+201110,Fall Semester 2010,3465,CS,474,001,Lecture,Machine Learning Algorithms,15,6
+201110,Fall Semester 2010,3301,CS,481,001,Lecture,Senior Project Design,20,2
+201110,Fall Semester 2010,3755,CS,482,001,Lecture,Senior Project Implementation,10,4
+201110,Fall Semester 2010,3467,CS,483,001,Lecture,Senior Project Presentation,20,1
+201110,Fall Semester 2010,3376,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201110,Fall Semester 2010,3377,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201110,Fall Semester 2010,3378,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201110,Fall Semester 2010,3460,CS,515,001,Lecture,Java Programming,10,5
+201110,Fall Semester 2010,3461,CS,515,002,Lab,Java Programming,10,5
+201110,Fall Semester 2010,3615,CS,516,001,Lecture,Adv Comp Prg Data Structure,10,1
+201110,Fall Semester 2010,3616,CS,516,002,Lab,Adv Comp Prg Data Structure,10,1
+201110,Fall Semester 2010,3464,CS,528,001,Lecture,C and Unix,10,5
+201110,Fall Semester 2010,3408,CS,535,001,Lecture,ST:  Computer Science,25,6
+201110,Fall Semester 2010,3757,CS,535,002,Lecture,ST:  Computer Science,25,3
+201110,Fall Semester 2010,3787,CS,536,001,Lecture,Human-Computer Interaction,25,0
+201110,Fall Semester 2010,3789,CS,536,002,Interactive TV,Human-Computer Interaction,25,5
+201110,Fall Semester 2010,3791,CS,536,003,Interactive TV,Human-Computer Interaction,25,1
+201110,Fall Semester 2010,3466,CS,574,001,Lecture,Machine Learning Algorithms,15,7
+201110,Fall Semester 2010,3372,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201110,Fall Semester 2010,3379,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201110,Fall Semester 2010,3383,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201110,Fall Semester 2010,3373,CS,592,001,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+201110,Fall Semester 2010,3380,CS,592,002,Ind Study/Research/Thesis/Proj,Independent Research,0,0
+201110,Fall Semester 2010,3384,CS,592,003,Ind Study/Research/Thesis/Proj,Independent Research,5,0
+201110,Fall Semester 2010,3368,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,13
+201110,Fall Semester 2010,3369,CS,620,001,Lecture,Multimedia Project Development,20,6
+201110,Fall Semester 2010,3758,CS,635,001,Lecture,ST:,8,3
+201110,Fall Semester 2010,3374,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201110,Fall Semester 2010,3381,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201110,Fall Semester 2010,3385,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201110,Fall Semester 2010,3375,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+201110,Fall Semester 2010,3382,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,3
+201110,Fall Semester 2010,3386,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,5
+201120,Spring Semester 2011,4175,CS,101,001,Lecture,Living with Computers,40,40
+201120,Spring Semester 2011,4176,CS,101,002,Lecture,Living with Computers,40,38
+201120,Spring Semester 2011,4177,CS,101,003,Lab,Living with Computers,20,19
+201120,Spring Semester 2011,4178,CS,101,004,Lab,Living with Computers,20,19
+201120,Spring Semester 2011,4179,CS,101,005,Lab,Living with Computers,20,19
+201120,Spring Semester 2011,4180,CS,101,006,Lab,Living with Computers,20,21
+201120,Spring Semester 2011,4733,CS,101,007,Lecture,Living with Computers,0,0
+201120,Spring Semester 2011,4734,CS,101,008,Lab,Living with Computers,0,0
+201120,Spring Semester 2011,3716,CS,144,001,Lecture,Intro to Computer Science,30,7
+201120,Spring Semester 2011,3717,CS,144,002,Lab,Intro to Computer Science,30,7
+201120,Spring Semester 2011,3730,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,10
+201120,Spring Semester 2011,3731,CS,145,002,Lab,Intro to Object-Oriented Prog,20,10
+201120,Spring Semester 2011,3721,CS,245,001,Lecture,Adv Computer Programming,20,7
+201120,Spring Semester 2011,3722,CS,245,002,Lab,Adv Computer Programming,20,7
+201120,Spring Semester 2011,3726,CS,350,001,Lecture,Programming Seminar 1,20,10
+201120,Spring Semester 2011,3727,CS,350,002,Lab,Programming Seminar 1,20,10
+201120,Spring Semester 2011,3725,CS,431,001,Lecture,Database Management,20,16
+201120,Spring Semester 2011,4173,CS,435,001,Lecture,Select Top in Comp Science,20,13
+201120,Spring Semester 2011,4421,CS,435,002,Interactive TV,Select Top in Comp Science,30,1
+201120,Spring Semester 2011,4565,CS,435,003,Lecture,Select Top in Comp Science,0,0
+201120,Spring Semester 2011,4619,CS,435,004,Lecture,Select Top in Comp Science,0,0
+201120,Spring Semester 2011,4801,CS,435,005,Lecture,Select Top in Comp Science,25,15
+201120,Spring Semester 2011,3735,CS,443,001,Lecture,Operating Systems,20,13
+201120,Spring Semester 2011,4419,CS,443,002,Interactive TV,Operating Systems,30,1
+201120,Spring Semester 2011,3728,CS,481,001,Lecture,Senior Project Design,10,5
+201120,Spring Semester 2011,3734,CS,482,001,Lecture,Senior Project Implementation,10,4
+201120,Spring Semester 2011,4524,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201120,Spring Semester 2011,4525,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201120,Spring Semester 2011,4526,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,4
+201120,Spring Semester 2011,3732,CS,515,001,Lecture,Java Programming,20,2
+201120,Spring Semester 2011,3733,CS,515,002,Lab,Java Programming,20,2
+201120,Spring Semester 2011,3723,CS,516,001,Lecture,Adv Comp Prg Data Structure,20,4
+201120,Spring Semester 2011,3724,CS,516,002,Lab,Adv Comp Prg Data Structure,20,3
+201120,Spring Semester 2011,3729,CS,531,001,Lecture,Database Management,10,6
+201120,Spring Semester 2011,4174,CS,535,001,Lecture,ST:  Computer Science,20,11
+201120,Spring Semester 2011,4422,CS,535,002,Interactive TV,ST:  Computer Science,30,0
+201120,Spring Semester 2011,4495,CS,535,003,Lecture,ST:  Computer Science,25,9
+201120,Spring Semester 2011,3736,CS,543,001,Lecture,Operating Systems,10,4
+201120,Spring Semester 2011,4420,CS,543,002,Interactive TV,Operating Systems,30,0
+201120,Spring Semester 2011,3720,CS,575,001,Lecture,Image Processing,0,0
+201120,Spring Semester 2011,3719,CS,576,001,Lecture,Animation and Visualization,25,6
+201120,Spring Semester 2011,4527,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201120,Spring Semester 2011,4528,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201120,Spring Semester 2011,4529,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201120,Spring Semester 2011,4530,CS,590,004,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201120,Spring Semester 2011,4531,CS,590,005,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201120,Spring Semester 2011,3718,CS,610,001,Lecture,Synthesis of Media Arts & CS,20,10
+201120,Spring Semester 2011,4566,CS,635,001,Lecture,ST:,0,0
+201120,Spring Semester 2011,4814,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201120,Spring Semester 2011,4532,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,6
+201120,Spring Semester 2011,4533,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,6
+201120,Spring Semester 2011,4534,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,6
+201130,Summer Semester 2011,1279,CS,101,001,Lecture,Living with Computers,0,0
+201130,Summer Semester 2011,1280,CS,101,002,Lab,Living with Computers,0,0
+201130,Summer Semester 2011,1304,CS,457,001,Internet Course,Computer Networks,10,5
+201130,Summer Semester 2011,1521,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201130,Summer Semester 2011,1522,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201130,Summer Semester 2011,1305,CS,557,001,Internet Course,Computer Networks,10,7
+201130,Summer Semester 2011,1523,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201130,Summer Semester 2011,1531,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201130,Summer Semester 2011,1532,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201130,Summer Semester 2011,1303,CS,635,001,Internet Course,ST:,20,7
+201130,Summer Semester 2011,1514,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,2
+201130,Summer Semester 2011,1515,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201130,Summer Semester 2011,1516,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,0,0
+201210,Fall Semester 2011,3027,CS,101,001,Lecture,Living with Computers,50,45
+201210,Fall Semester 2011,3028,CS,101,002,Lecture,Living with Computers,50,44
+201210,Fall Semester 2011,3029,CS,101,003,Lab,Living with Computers,20,18
+201210,Fall Semester 2011,3030,CS,101,004,Lab,Living with Computers,20,16
+201210,Fall Semester 2011,3031,CS,101,005,Lab,Living with Computers,20,16
+201210,Fall Semester 2011,3032,CS,101,006,Lab,Living with Computers,20,19
+201210,Fall Semester 2011,3581,CS,101,007,Lecture,Living with Computers,0,0
+201210,Fall Semester 2011,3582,CS,101,008,Lab,Living with Computers,0,0
+201210,Fall Semester 2011,3838,CS,101,009,Lab,Living with Computers,20,20
+201210,Fall Semester 2011,3289,CS,144,001,Lecture,Intro to Computer Science,25,10
+201210,Fall Semester 2011,3290,CS,144,002,Lab,Intro to Computer Science,25,10
+201210,Fall Semester 2011,3019,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,4
+201210,Fall Semester 2011,3020,CS,145,002,Lab,Intro to Object-Oriented Prog,20,4
+201210,Fall Semester 2011,3508,CS,245,001,Lecture,Adv Computer Programming,0,0
+201210,Fall Semester 2011,3509,CS,245,002,Lab,Adv Computer Programming,0,0
+201210,Fall Semester 2011,3021,CS,328,001,Lecture,C and Unix,20,12
+201210,Fall Semester 2011,3294,CS,380,001,Lecture,Computer Modeling & Simulation,25,9
+201210,Fall Semester 2011,3598,CS,435,001,Lecture,Select Top in Comp Science,0,0
+201210,Fall Semester 2011,3690,CS,435,002,Lecture,Select Top in Comp Science,25,14
+201210,Fall Semester 2011,3512,CS,450,001,Lecture,Programming Seminar 2,25,7
+201210,Fall Semester 2011,3513,CS,450,002,Lab,Programming Seminar 2,25,7
+201210,Fall Semester 2011,3514,CS,461,001,Lecture,Programming Languages,25,12
+201210,Fall Semester 2011,3698,CS,481,001,Lecture,Senior Project Design,10,2
+201210,Fall Semester 2011,3939,CS,482,001,Lecture,Senior Project Implementation,15,4
+201210,Fall Semester 2011,3024,CS,483,001,Lecture,Senior Project Presentation,0,0
+201210,Fall Semester 2011,3025,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201210,Fall Semester 2011,3034,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201210,Fall Semester 2011,3037,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201210,Fall Semester 2011,3701,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,5,3
+201210,Fall Semester 2011,3807,CS,515,001,Lecture,Java Programming,15,4
+201210,Fall Semester 2011,3808,CS,515,002,Lab,Java Programming,15,4
+201210,Fall Semester 2011,3510,CS,516,001,Lecture,Adv Comp Prg Data Structure,0,0
+201210,Fall Semester 2011,3511,CS,516,002,Lab,Adv Comp Prg Data Structure,0,0
+201210,Fall Semester 2011,3022,CS,528,001,Lecture,C and Unix,10,9
+201210,Fall Semester 2011,3555,CS,535,001,Lecture,ST:  Computer Science,20,1
+201210,Fall Semester 2011,3691,CS,535,002,Lecture,ST:  Computer Science,25,5
+201210,Fall Semester 2011,3554,CS,575,001,Lecture,Image Processing,25,10
+201210,Fall Semester 2011,3026,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,8
+201210,Fall Semester 2011,3035,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201210,Fall Semester 2011,3038,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201210,Fall Semester 2011,3696,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,7
+201210,Fall Semester 2011,3023,CS,620,001,Lecture,Multimedia Project Development,25,10
+201210,Fall Semester 2011,3599,CS,635,001,Lecture,ST:,0,0
+201210,Fall Semester 2011,3960,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201210,Fall Semester 2011,3033,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,9
+201210,Fall Semester 2011,3036,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,0,0
+201210,Fall Semester 2011,3039,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,8
+201220,Spring Semester 2012,4452,CS,101,001,Lecture,Living with Computers,50,48
+201220,Spring Semester 2012,4453,CS,101,002,Lecture,Living with Computers,50,42
+201220,Spring Semester 2012,4454,CS,101,003,Lab,Living with Computers,20,18
+201220,Spring Semester 2012,4455,CS,101,004,Lab,Living with Computers,20,8
+201220,Spring Semester 2012,4456,CS,101,005,Lab,Living with Computers,20,22
+201220,Spring Semester 2012,4457,CS,101,006,Lab,Living with Computers,20,20
+201220,Spring Semester 2012,4462,CS,101,007,Lab,Living with Computers,20,22
+201220,Spring Semester 2012,4518,CS,101,008,Lecture,Living with Computers,20,9
+201220,Spring Semester 2012,4519,CS,101,009,Lab,Living with Computers,20,9
+201220,Spring Semester 2012,4460,CS,144,001,Lecture,Intro to Computer Science,0,0
+201220,Spring Semester 2012,4461,CS,144,002,Lab,Intro to Computer Science,0,0
+201220,Spring Semester 2012,4448,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,10
+201220,Spring Semester 2012,4449,CS,145,002,Lab,Intro to Object-Oriented Prog,20,10
+201220,Spring Semester 2012,4450,CS,245,001,Lecture,Adv Computer Programming,20,10
+201220,Spring Semester 2012,4451,CS,245,002,Lab,Adv Computer Programming,20,10
+201220,Spring Semester 2012,4443,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,0,0
+201220,Spring Semester 2012,4444,CS,451,001,Lecture,Software Engineering,20,8
+201220,Spring Semester 2012,4558,CS,451,002,Interactive TV,Software Engineering,10,1
+201220,Spring Semester 2012,4748,CS,455,001,Lecture,Intro to Computer Graphics,20,10
+201220,Spring Semester 2012,4753,CS,463,001,Lecture,Web Programming,20,3
+201220,Spring Semester 2012,4755,CS,463,002,Interactive TV,Web Programming,20,10
+201220,Spring Semester 2012,4458,CS,481,001,Lecture,Senior Project Design,20,3
+201220,Spring Semester 2012,4459,CS,482,001,Lecture,Senior Project Implementation,20,5
+201220,Spring Semester 2012,4729,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201220,Spring Semester 2012,4944,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201220,Spring Semester 2012,4915,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,2,2
+201220,Spring Semester 2012,4916,CS,493,002,Ind Study/Research/Thesis/Proj,Directed Study,2,1
+201220,Spring Semester 2012,4446,CS,516,001,Lecture,Adv Comp Prg Data Structure,20,3
+201220,Spring Semester 2012,4447,CS,516,002,Lab,Adv Comp Prg Data Structure,20,3
+201220,Spring Semester 2012,4445,CS,551,001,Lecture,Software Engineering,20,8
+201220,Spring Semester 2012,4559,CS,551,002,Interactive TV,Software Engineering,0,0
+201220,Spring Semester 2012,4740,CS,555,001,Lecture,Computer Graphics,25,7
+201220,Spring Semester 2012,4754,CS,563,001,Lecture,Web Programming,20,1
+201220,Spring Semester 2012,4756,CS,563,002,Interactive TV,Web Programming,20,7
+201220,Spring Semester 2012,4442,CS,576,001,Lecture,Animation and Visualization,0,0
+201220,Spring Semester 2012,4730,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,7
+201220,Spring Semester 2012,4122,CS,610,001,Lecture,Synthesis of Media Arts & CS,20,8
+201220,Spring Semester 2012,4952,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,2
+201220,Spring Semester 2012,4120,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,20,10
+201220,Spring Semester 2012,4121,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,20,9
+201230,Summer Semester 2012,1446,CS,101,001,Lecture,Living with Computers,15,4
+201230,Summer Semester 2012,1447,CS,101,002,Lab,Living with Computers,15,4
+201230,Summer Semester 2012,1569,CS,101,003,Interactive TV,Living with Computers,15,2
+201230,Summer Semester 2012,1570,CS,101,004,Lab,Living with Computers,15,2
+201230,Summer Semester 2012,1491,CS,464,001,Lecture,Network Programming,25,3
+201230,Summer Semester 2012,1529,CS,481,001,Lecture,Senior Project Design,5,1
+201230,Summer Semester 2012,1464,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,10,1
+201230,Summer Semester 2012,1467,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201230,Summer Semester 2012,1492,CS,564,001,Lecture,Network Programming,15,7
+201230,Summer Semester 2012,1465,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,10,6
+201230,Summer Semester 2012,1468,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201230,Summer Semester 2012,1609,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,1,1
+201230,Summer Semester 2012,1466,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,10
+201230,Summer Semester 2012,1469,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,0,0
+201310,Fall Semester 2012,2627,CS,101,001,Lecture,Living with Computers,40,40
+201310,Fall Semester 2012,2628,CS,101,002,Lecture,Living with Computers,40,36
+201310,Fall Semester 2012,2629,CS,101,003,Lab,Living with Computers,20,18
+201310,Fall Semester 2012,2630,CS,101,004,Lab,Living with Computers,20,16
+201310,Fall Semester 2012,2631,CS,101,005,Lab,Living with Computers,20,20
+201310,Fall Semester 2012,2632,CS,101,006,Lab,Living with Computers,20,22
+201310,Fall Semester 2012,2633,CS,144,001,Lecture,Intro to Computer Science,25,19
+201310,Fall Semester 2012,2634,CS,144,002,Lab,Intro to Computer Science,25,19
+201310,Fall Semester 2012,2635,CS,145,001,Lecture,Intro to Object-Oriented Prog,25,14
+201310,Fall Semester 2012,2636,CS,145,002,Lab,Intro to Object-Oriented Prog,25,14
+201310,Fall Semester 2012,2639,CS,245,001,Lecture,Adv Computer Programming,25,5
+201310,Fall Semester 2012,2640,CS,245,002,Lab,Adv Computer Programming,0,0
+201310,Fall Semester 2012,3547,CS,350,001,Lecture,Programming Seminar 1,25,14
+201310,Fall Semester 2012,3548,CS,350,002,Interactive TV,Programming Seminar 1,25,1
+201310,Fall Semester 2012,3594,CS,350,003,Lab,Programming Seminar 1,25,13
+201310,Fall Semester 2012,3595,CS,350,004,Lab,Programming Seminar 1,25,2
+201310,Fall Semester 2012,3784,CS,435,001,Internet Course,Select Top in Comp Science,0,0
+201310,Fall Semester 2012,3543,CS,443,001,Lecture,Operating Systems,20,10
+201310,Fall Semester 2012,3545,CS,443,002,Interactive TV,Operating Systems,20,2
+201310,Fall Semester 2012,2643,CS,481,001,Lecture,Senior Project Design,20,4
+201310,Fall Semester 2012,2644,CS,482,001,Lecture,Senior Project Implementation,20,5
+201310,Fall Semester 2012,2645,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,20,2
+201310,Fall Semester 2012,3050,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,10,0
+201310,Fall Semester 2012,2637,CS,515,001,Lecture,Java Programming,10,3
+201310,Fall Semester 2012,2638,CS,515,002,Lab,Java Programming,10,3
+201310,Fall Semester 2012,2641,CS,516,001,Lecture,Adv Comp Prg Data Structure,0,0
+201310,Fall Semester 2012,2642,CS,516,002,Lab,Adv Comp Prg Data Structure,0,0
+201310,Fall Semester 2012,3785,CS,535,001,Internet Course,ST:  Computer Science,0,0
+201310,Fall Semester 2012,3807,CS,535,002,Lecture,ST:  Computer Science,25,3
+201310,Fall Semester 2012,3544,CS,543,001,Lecture,Operating Systems,10,5
+201310,Fall Semester 2012,3546,CS,543,002,Interactive TV,Operating Systems,10,1
+201310,Fall Semester 2012,2646,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,20,4
+201310,Fall Semester 2012,3051,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,10,2
+201310,Fall Semester 2012,3047,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,5
+201310,Fall Semester 2012,2647,CS,620,001,Lecture,Multimedia Project Development,25,7
+201310,Fall Semester 2012,3945,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,3
+201310,Fall Semester 2012,2626,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,4
+201310,Fall Semester 2012,2648,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,25,11
+201320,Spring Semester 2013,3763,CS,101,001,Lecture,Living with Computers,80,64
+201320,Spring Semester 2013,3764,CS,101,002,Lab,Living with Computers,20,18
+201320,Spring Semester 2013,3765,CS,101,003,Lab,Living with Computers,20,8
+201320,Spring Semester 2013,3766,CS,101,004,Lab,Living with Computers,20,18
+201320,Spring Semester 2013,3767,CS,101,005,Lab,Living with Computers,20,20
+201320,Spring Semester 2013,3768,CS,144,001,Lecture,Intro to Computer Science,20,10
+201320,Spring Semester 2013,3769,CS,144,002,Lab,Intro to Computer Science,20,10
+201320,Spring Semester 2013,3783,CS,145,001,Lecture,Intro to Object-Oriented Prog,0,0
+201320,Spring Semester 2013,3784,CS,145,002,Lab,Intro to Object-Oriented Prog,0,0
+201320,Spring Semester 2013,3770,CS,245,001,Lecture,Adv Computer Programming,25,9
+201320,Spring Semester 2013,3787,CS,421,001,Lecture,Adv Data Struct & Alg Dev,25,4
+201320,Spring Semester 2013,4299,CS,431,001,Lecture,Database Management,25,13
+201320,Spring Semester 2013,4301,CS,431,002,Interactive TV,Database Management,25,2
+201320,Spring Semester 2013,3761,CS,435,001,Internet Course,Select Top in Comp Science,0,0
+201320,Spring Semester 2013,4295,CS,451,001,Lecture,Software Engineering,25,6
+201320,Spring Semester 2013,4297,CS,451,002,Interactive TV,Software Engineering,25,1
+201320,Spring Semester 2013,3789,CS,477,001,Lecture,Parallel & Distributed Program,25,9
+201320,Spring Semester 2013,3772,CS,481,001,Lecture,Senior Project Design,0,0
+201320,Spring Semester 2013,3773,CS,482,001,Lecture,Senior Project Implementation,10,2
+201320,Spring Semester 2013,3395,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201320,Spring Semester 2013,3398,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,4
+201320,Spring Semester 2013,3785,CS,515,001,Lecture,Java Programming,0,0
+201320,Spring Semester 2013,3786,CS,515,002,Lab,Java Programming,0,0
+201320,Spring Semester 2013,3771,CS,516,001,Lecture,Adv Comp Prg Data Structure,10,2
+201320,Spring Semester 2013,3788,CS,521,001,Lecture,Adv Data Struct & Algorith Dev,20,2
+201320,Spring Semester 2013,4300,CS,531,001,Lecture,Database Management,25,4
+201320,Spring Semester 2013,4302,CS,531,002,Interactive TV,Database Management,0,0
+201320,Spring Semester 2013,3762,CS,535,001,Internet Course,ST:  Computer Science,0,0
+201320,Spring Semester 2013,4296,CS,551,001,Lecture,Software Engineering,25,3
+201320,Spring Semester 2013,4298,CS,551,002,Interactive TV,Software Engineering,0,0
+201320,Spring Semester 2013,3790,CS,577,001,Lecture,Parallel & Distributed Program,20,6
+201320,Spring Semester 2013,3396,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201320,Spring Semester 2013,3399,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,3
+201320,Spring Semester 2013,4303,CS,610,001,Internet Course,Synthesis of Media Arts & CS,25,6
+201320,Spring Semester 2013,4660,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,4
+201320,Spring Semester 2013,4661,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201320,Spring Semester 2013,3397,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,5
+201320,Spring Semester 2013,3400,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,7
+201330,Summer Semester 2013,1274,CS,435,001,Internet Course,Select Top in Comp Science,0,0
+201330,Summer Semester 2013,1466,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201330,Summer Semester 2013,1467,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201330,Summer Semester 2013,1275,CS,535,001,Internet Course,ST:  Computer Science,0,0
+201330,Summer Semester 2013,1468,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201330,Summer Semester 2013,1469,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201330,Summer Semester 2013,1551,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,4,1
+201330,Summer Semester 2013,1470,CS,690,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201330,Summer Semester 2013,1471,CS,690,002,Ind Study/Research/Thesis/Proj,Independent Study,0,0
+201330,Summer Semester 2013,1472,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,3
+201330,Summer Semester 2013,1473,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201330,Summer Semester 2013,1474,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,3
+201330,Summer Semester 2013,1475,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,2
+201410,Fall Semester 2013,2009,CS,101,001,Lecture,Living with Computers,80,69
+201410,Fall Semester 2013,2011,CS,101,003,Lab,Living with Computers,20,19
+201410,Fall Semester 2013,2012,CS,101,004,Lab,Living with Computers,20,10
+201410,Fall Semester 2013,2013,CS,101,005,Lab,Living with Computers,20,22
+201410,Fall Semester 2013,2014,CS,101,006,Lab,Living with Computers,20,18
+201410,Fall Semester 2013,2116,CS,144,001,Lecture,Intro to Computer Science,30,24
+201410,Fall Semester 2013,2117,CS,144,002,Lab,Intro to Computer Science,30,24
+201410,Fall Semester 2013,2015,CS,145,001,Lecture,Intro to Object-Oriented Prog,30,23
+201410,Fall Semester 2013,2016,CS,145,002,Lab,Intro to Object-Oriented Prog,30,23
+201410,Fall Semester 2013,2122,CS,328,001,Internet Course,C and Unix,25,7
+201410,Fall Semester 2013,2017,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,20,11
+201410,Fall Semester 2013,2118,CS,345,001,Lecture,Data & File Structures,20,11
+201410,Fall Semester 2013,2119,CS,345,002,Lab,Data & File Structures,20,11
+201410,Fall Semester 2013,2120,CS,350,001,Lecture,Programming Seminar 1,20,3
+201410,Fall Semester 2013,2121,CS,350,002,Lab,Programming Seminar 1,20,3
+201410,Fall Semester 2013,3760,CS,435,001,Lecture,Select Top in Comp Science,0,0
+201410,Fall Semester 2013,2124,CS,463,001,Internet Course,Web Programming,25,5
+201410,Fall Semester 2013,3679,CS,481,001,Lecture,Senior Project Design,5,2
+201410,Fall Semester 2013,3680,CS,482,001,Lecture,Senior Project Implementation,5,2
+201410,Fall Semester 2013,2001,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201410,Fall Semester 2013,2002,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201410,Fall Semester 2013,2114,CS,515,001,Lecture,Java Programming,15,6
+201410,Fall Semester 2013,2115,CS,515,002,Lab,Java Programming,15,6
+201410,Fall Semester 2013,2123,CS,528,001,Internet Course,C and Unix,10,10
+201410,Fall Semester 2013,3761,CS,535,001,Lecture,ST:  Computer Science,20,7
+201410,Fall Semester 2013,2125,CS,563,001,Internet Course,Web Programming,10,15
+201410,Fall Semester 2013,2003,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201410,Fall Semester 2013,2004,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201410,Fall Semester 2013,2005,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,2
+201410,Fall Semester 2013,2006,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201410,Fall Semester 2013,2007,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201410,Fall Semester 2013,2008,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,6
+201420,Spring Semester 2014,4472,CS,101,001,Lecture,Living with Computers,30,30
+201420,Spring Semester 2014,4473,CS,101,002,Lecture,Living with Computers,30,27
+201420,Spring Semester 2014,4474,CS,101,003,Lab,Living with Computers,20,22
+201420,Spring Semester 2014,4475,CS,101,004,Lab,Living with Computers,20,20
+201420,Spring Semester 2014,4476,CS,101,005,Lab,Living with Computers,20,15
+201420,Spring Semester 2014,4604,CS,101,006,Lecture,Living with Computers,20,12
+201420,Spring Semester 2014,4477,CS,144,001,Lecture,Intro to Computer Science,25,8
+201420,Spring Semester 2014,4478,CS,144,002,Lab,Intro to Computer Science,25,8
+201420,Spring Semester 2014,3354,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,14
+201420,Spring Semester 2014,3355,CS,145,002,Lab,Intro to Object-Oriented Prog,20,14
+201420,Spring Semester 2014,3345,CS,245,001,Lecture,Adv Computer Programming,20,15
+201420,Spring Semester 2014,4537,CS,245,002,Internet Course,Adv Computer Programming,25,0
+201420,Spring Semester 2014,4482,CS,435,001,Lecture,Select Top in Comp Science,25,13
+201420,Spring Semester 2014,3358,CS,443,001,Lecture,Operating Systems,20,10
+201420,Spring Semester 2014,3360,CS,451,001,Lecture,Software Engineering,20,7
+201420,Spring Semester 2014,3348,CS,474,001,Lecture,Machine Learning Algorithms,20,3
+201420,Spring Semester 2014,4539,CS,474,002,Internet Course,Machine Learning Algorithms,25,2
+201420,Spring Semester 2014,4794,CS,481,001,Lecture,Senior Project Design,5,1
+201420,Spring Semester 2014,4786,CS,482,001,Lecture,Senior Project Implementation,15,3
+201420,Spring Semester 2014,3350,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201420,Spring Semester 2014,3363,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201420,Spring Semester 2014,4637,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201420,Spring Semester 2014,4721,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,5,2
+201420,Spring Semester 2014,3356,CS,515,001,Lecture,Java Programming,20,0
+201420,Spring Semester 2014,3357,CS,515,002,Lab,Java Programming,20,0
+201420,Spring Semester 2014,3346,CS,516,001,Lecture,Adv Comp Prg Data Structure,20,10
+201420,Spring Semester 2014,4538,CS,516,002,Internet Course,Adv Comp Prg Data Structure,20,0
+201420,Spring Semester 2014,4483,CS,535,001,Lecture,ST:  Computer Science,25,3
+201420,Spring Semester 2014,3359,CS,543,001,Lecture,Operating Systems,20,4
+201420,Spring Semester 2014,3361,CS,551,001,Lecture,Software Engineering,20,13
+201420,Spring Semester 2014,3349,CS,574,001,Lecture,Machine Learning Algorithms,20,15
+201420,Spring Semester 2014,4540,CS,574,002,Internet Course,Machine Learning Algorithms,20,0
+201420,Spring Semester 2014,3351,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201420,Spring Semester 2014,3364,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201420,Spring Semester 2014,4638,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201420,Spring Semester 2014,3362,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,12
+201420,Spring Semester 2014,3347,CS,620,001,Lecture,Multimedia Project Development,20,13
+201420,Spring Semester 2014,4541,CS,620,002,Internet Course,Multimedia Project Development,25,1
+201420,Spring Semester 2014,3352,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201420,Spring Semester 2014,3365,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201420,Spring Semester 2014,4639,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201420,Spring Semester 2014,3353,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,7
+201420,Spring Semester 2014,3366,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201420,Spring Semester 2014,4640,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,4
+201430,Summer Semester 2014,1484,CS,481,001,Lecture,Senior Project Design,5,0
+201430,Summer Semester 2014,1438,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201430,Summer Semester 2014,1439,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201430,Summer Semester 2014,1526,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201430,Summer Semester 2014,1396,CS,564,001,Lecture,Network Programming,0,0
+201430,Summer Semester 2014,1440,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201430,Summer Semester 2014,1441,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201430,Summer Semester 2014,1527,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201430,Summer Semester 2014,1058,CS,610,001,Internet Course,Synthesis of Media Arts & CS,20,11
+201430,Summer Semester 2014,1442,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,1
+201430,Summer Semester 2014,1443,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201430,Summer Semester 2014,1519,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,5,4
+201430,Summer Semester 2014,1444,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201430,Summer Semester 2014,1445,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,0,0
+201430,Summer Semester 2014,1520,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201510,Fall Semester 2014,2542,CS,101,001,Lecture,Living with Computers,40,36
+201510,Fall Semester 2014,2543,CS,101,002,Lab,Living with Computers,20,18
+201510,Fall Semester 2014,2544,CS,101,003,Lab,Living with Computers,20,20
+201510,Fall Semester 2014,2545,CS,101,004,Lab,Living with Computers,20,18
+201510,Fall Semester 2014,3784,CS,101,005,Lecture,Living with Computers,20,20
+201510,Fall Semester 2014,2546,CS,144,001,Lecture,Intro to Computer Science,20,13
+201510,Fall Semester 2014,2547,CS,144,002,Lab,Intro to Computer Science,20,13
+201510,Fall Semester 2014,2550,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,11
+201510,Fall Semester 2014,2551,CS,145,002,Lab,Intro to Object-Oriented Prog,20,11
+201510,Fall Semester 2014,2567,CS,245,001,Lecture,Adv Computer Programming,20,9
+201510,Fall Semester 2014,2573,CS,328,001,Internet Course,C and Unix,20,14
+201510,Fall Semester 2014,2554,CS,345,001,Lecture,Data & File Structures,20,7
+201510,Fall Semester 2014,2555,CS,345,002,Lab,Data & File Structures,20,7
+201510,Fall Semester 2014,2556,CS,350,001,Lecture,Programming Seminar 1,20,7
+201510,Fall Semester 2014,2557,CS,350,002,Lab,Programming Seminar 1,20,7
+201510,Fall Semester 2014,2548,CS,431,001,Lecture,Database Management,20,8
+201510,Fall Semester 2014,3709,CS,435,001,Lecture,Select Top in Comp Science,20,12
+201510,Fall Semester 2014,2575,CS,457,001,Lecture,Computer Networks,20,10
+201510,Fall Semester 2014,3631,CS,481,001,Lecture,Senior Project Design,10,4
+201510,Fall Semester 2014,3632,CS,482,001,Lecture,Senior Project Implementation,10,0
+201510,Fall Semester 2014,2558,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201510,Fall Semester 2014,2563,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201510,Fall Semester 2014,2569,CS,490,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201510,Fall Semester 2014,3967,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,1,0
+201510,Fall Semester 2014,2552,CS,515,001,Lecture,Java Programming,20,3
+201510,Fall Semester 2014,2553,CS,515,002,Lab,Java Programming,20,3
+201510,Fall Semester 2014,2568,CS,516,001,Lecture,Adv Comp Prg Data Structure,20,1
+201510,Fall Semester 2014,2574,CS,528,001,Internet Course,C and Unix,15,0
+201510,Fall Semester 2014,2549,CS,531,001,Lecture,Database Management,20,5
+201510,Fall Semester 2014,3710,CS,535,001,Lecture,ST:  Computer Science,20,6
+201510,Fall Semester 2014,2576,CS,557,001,Lecture,Computer Networks,15,3
+201510,Fall Semester 2014,2559,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201510,Fall Semester 2014,2564,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201510,Fall Semester 2014,2570,CS,590,003,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201510,Fall Semester 2014,3832,CS,590,004,Ind Study/Research/Thesis/Proj,Independent Study,10,8
+201510,Fall Semester 2014,3839,CS,693,001,Ind Study/Research/Thesis/Proj,Directed Study,10,2
+201510,Fall Semester 2014,3847,CS,693,002,Ind Study/Research/Thesis/Proj,Directed Study,3,3
+201510,Fall Semester 2014,2560,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,2
+201510,Fall Semester 2014,2565,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,7
+201510,Fall Semester 2014,2571,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201510,Fall Semester 2014,2561,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,0
+201510,Fall Semester 2014,2566,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,4
+201510,Fall Semester 2014,2572,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,5,0
+201520,Spring Semester 2015,3716,CS,101,001,Lecture,Living with Computers,60,59
+201520,Spring Semester 2015,3717,CS,101,002,Lab,Living with Computers,15,15
+201520,Spring Semester 2015,3718,CS,101,003,Lab,Living with Computers,15,14
+201520,Spring Semester 2015,3719,CS,101,004,Lab,Living with Computers,15,15
+201520,Spring Semester 2015,3720,CS,101,005,Lab,Living with Computers,15,15
+201520,Spring Semester 2015,3723,CS,144,001,Lecture,Intro to Computer Science,20,6
+201520,Spring Semester 2015,3724,CS,144,002,Lab,Intro to Computer Science,20,6
+201520,Spring Semester 2015,3725,CS,145,001,Lecture,Intro to Object-Oriented Prog,15,8
+201520,Spring Semester 2015,3726,CS,145,002,Lab,Intro to Object-Oriented Prog,15,8
+201520,Spring Semester 2015,3735,CS,341,001,Lecture,Mach Arch & Assem Lang Prog,15,22
+201520,Spring Semester 2015,3729,CS,431,001,Lecture,Database Management,15,11
+201520,Spring Semester 2015,3727,CS,443,001,Lecture,Operating Systems,15,8
+201520,Spring Semester 2015,3731,CS,463,001,Lecture,Web Programming,0,0
+201520,Spring Semester 2015,3733,CS,474,001,Lecture,Machine Learning Algorithms,15,20
+201520,Spring Semester 2015,3721,CS,481,001,Lecture,Senior Project Design,0,0
+201520,Spring Semester 2015,3722,CS,482,001,Lecture,Senior Project Implementation,0,0
+201520,Spring Semester 2015,4580,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201520,Spring Semester 2015,4615,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,10,4
+201520,Spring Semester 2015,4616,CS,493,002,Ind Study/Research/Thesis/Proj,Directed Study,10,4
+201520,Spring Semester 2015,3730,CS,531,001,Lecture,Database Management,0,0
+201520,Spring Semester 2015,3728,CS,543,001,Lecture,Operating Systems,0,0
+201520,Spring Semester 2015,3732,CS,563,001,Lecture,Web Programming,0,0
+201520,Spring Semester 2015,3734,CS,574,001,Lecture,Machine Learning Algorithms,15,2
+201520,Spring Semester 2015,4581,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,2
+201520,Spring Semester 2015,4744,CS,693,001,Ind Study/Research/Thesis/Proj,Directed Study,3,1
+201520,Spring Semester 2015,4582,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,10,8
+201520,Spring Semester 2015,4583,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,10,4
+201610,Fall Semester 2015,3348,CS,101,001,Lecture,Living with Computers,24,21
+201610,Fall Semester 2015,3349,CS,101,002,Lecture,Living with Computers,24,22
+201610,Fall Semester 2015,3350,CS,101,003,Lab,Living with Computers,16,14
+201610,Fall Semester 2015,3351,CS,101,004,Lab,Living with Computers,16,13
+201610,Fall Semester 2015,3352,CS,101,005,Lab,Living with Computers,16,16
+201610,Fall Semester 2015,3384,CS,135,001,Lecture,Select Top in Comp Science,20,19
+201610,Fall Semester 2015,3353,CS,144,001,Lecture,Intro to Computer Science,20,7
+201610,Fall Semester 2015,3354,CS,144,002,Lab,Intro to Computer Science,20,7
+201610,Fall Semester 2015,3355,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,16
+201610,Fall Semester 2015,3356,CS,145,002,Lab,Intro to Object-Oriented Prog,20,16
+201610,Fall Semester 2015,3634,CS,193,001,Ind Study/Research/Thesis/Proj,Directed Study,4,1
+201610,Fall Semester 2015,3360,CS,245,001,Lecture,Adv Computer Programming,20,10
+201610,Fall Semester 2015,3361,CS,350,001,Lecture,Programming Seminar 1,20,10
+201610,Fall Semester 2015,3362,CS,350,002,Lab,Programming Seminar 1,20,10
+201610,Fall Semester 2015,3359,CS,443,001,Lecture,Operating Systems,0,0
+201610,Fall Semester 2015,3363,CS,451,001,Lecture,Software Engineering,20,12
+201610,Fall Semester 2015,3389,CS,477,001,Lecture,Parallel & Distributed Program,20,18
+201610,Fall Semester 2015,3724,CS,481,001,Lecture,Senior Project Design,5,7
+201610,Fall Semester 2015,3366,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,0,0
+201610,Fall Semester 2015,3367,CS,493,002,Ind Study/Research/Thesis/Proj,Directed Study,15,1
+201610,Fall Semester 2015,3661,CS,493,003,Ind Study/Research/Thesis/Proj,Directed Study,10,5
+201610,Fall Semester 2015,3678,CS,493,004,Ind Study/Research/Thesis/Proj,Directed Study,3,1
+201610,Fall Semester 2015,3357,CS,515,001,Lecture,Java Programming,10,0
+201610,Fall Semester 2015,3358,CS,515,002,Lab,Java Programming,10,0
+201610,Fall Semester 2015,3364,CS,551,001,Lecture,Software Engineering,10,3
+201610,Fall Semester 2015,3390,CS,577,001,Lecture,Parallel & Distributed Program,20,3
+201610,Fall Semester 2015,3365,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,2
+201610,Fall Semester 2015,3368,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201610,Fall Semester 2015,3369,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201610,Fall Semester 2015,3370,CS,697,003,Ind Study/Research/Thesis/Proj,Field Project,0,0
+201610,Fall Semester 2015,3371,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,3
+201610,Fall Semester 2015,3372,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,0
+201610,Fall Semester 2015,3373,CS,699,003,Ind Study/Research/Thesis/Proj,Thesis,0,0
+201620,Spring Semester 2016,3294,CS,101,001,Lecture,Living with Computers,27,26
+201620,Spring Semester 2016,3295,CS,101,002,Lecture,Living with Computers,27,27
+201620,Spring Semester 2016,3296,CS,101,003,Lab,Living with Computers,18,18
+201620,Spring Semester 2016,3297,CS,101,004,Lab,Living with Computers,18,17
+201620,Spring Semester 2016,3298,CS,101,005,Lab,Living with Computers,18,18
+201620,Spring Semester 2016,3299,CS,144,001,Lecture,Intro to Computer Science,20,14
+201620,Spring Semester 2016,3300,CS,144,002,Lab,Intro to Computer Science,20,14
+201620,Spring Semester 2016,3301,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,12
+201620,Spring Semester 2016,3302,CS,145,002,Lab,Intro to Object-Oriented Prog,20,12
+201620,Spring Semester 2016,4523,CS,245,001,Lecture,Adv Computer Programming,20,8
+201620,Spring Semester 2016,4694,CS,393,001,Ind Study/Research/Thesis/Proj,Directed Study,3,1
+201620,Spring Semester 2016,4593,CS,435,001,Lecture,Select Top in Comp Science,25,9
+201620,Spring Semester 2016,4599,CS,443,001,Lecture,Operating Systems,15,5
+201620,Spring Semester 2016,3305,CS,457,001,Lecture,Computer Networks,20,13
+201620,Spring Semester 2016,3995,CS,473,001,Lecture,Artificial Neural Networks,20,13
+201620,Spring Semester 2016,4596,CS,481,001,Lecture,Senior Project Design,5,2
+201620,Spring Semester 2016,3997,CS,482,001,Lecture,Senior Project Implementation,15,10
+201620,Spring Semester 2016,3308,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201620,Spring Semester 2016,3312,CS,490,002,Ind Study/Research/Thesis/Proj,Independent Study,5,1
+201620,Spring Semester 2016,3303,CS,515,001,Lecture,Java Programming,20,1
+201620,Spring Semester 2016,3304,CS,515,002,Lab,Java Programming,20,1
+201620,Spring Semester 2016,4600,CS,543,001,Lecture,Operating Systems,10,0
+201620,Spring Semester 2016,3306,CS,557,001,Lecture,Computer Networks,20,3
+201620,Spring Semester 2016,3996,CS,573,001,Lecture,Artificial Neural Networks,15,6
+201620,Spring Semester 2016,3309,CS,590,001,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201620,Spring Semester 2016,3313,CS,590,002,Ind Study/Research/Thesis/Proj,Independent Study,5,0
+201620,Spring Semester 2016,3307,CS,610,001,Lecture,Synthesis of Media Arts & CS,5,3
+201620,Spring Semester 2016,3310,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201620,Spring Semester 2016,3314,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201620,Spring Semester 2016,3311,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,0
+201620,Spring Semester 2016,3315,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,4
+201630,Summer Semester 2016,1413,CS,482,001,Lecture,Senior Project Implementation,5,1
+201630,Summer Semester 2016,1458,CS,490,001,Ind Study/Research/Thesis/Proj,Independent Study,1,1
+201630,Summer Semester 2016,1447,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,1,1
+201630,Summer Semester 2016,1468,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201710,Fall Semester 2016,2004,CS,101,001,Lecture,Living with Computers,24,23
+201710,Fall Semester 2016,2005,CS,101,002,Lecture,Living with Computers,24,22
+201710,Fall Semester 2016,2006,CS,101,003,Lab,Living with Computers,16,13
+201710,Fall Semester 2016,2007,CS,101,004,Lab,Living with Computers,16,16
+201710,Fall Semester 2016,2008,CS,101,005,Lab,Living with Computers,16,16
+201710,Fall Semester 2016,3512,CS,135,001,Lecture,Select Top in Comp Science,20,13
+201710,Fall Semester 2016,3239,CS,144,001,Lecture,Intro to Computer Science,20,5
+201710,Fall Semester 2016,3240,CS,144,002,Lab,Intro to Computer Science,20,5
+201710,Fall Semester 2016,3514,CS,144,003,Lecture,Intro to Computer Science,20,18
+201710,Fall Semester 2016,3515,CS,144,004,Lab,Intro to Computer Science,20,18
+201710,Fall Semester 2016,3516,CS,144,005,Lab,Intro to Computer Science,0,0
+201710,Fall Semester 2016,3241,CS,145,001,Lecture,Intro to Object-Oriented Prog,0,0
+201710,Fall Semester 2016,3242,CS,145,002,Lab,Intro to Object-Oriented Prog,0,0
+201710,Fall Semester 2016,3243,CS,245,001,Lecture,Adv Computer Programming,20,11
+201710,Fall Semester 2016,2616,CS,350,001,Lecture,Programming Seminar 1,20,9
+201710,Fall Semester 2016,2617,CS,350,002,Lab,Programming Seminar 1,20,9
+201710,Fall Semester 2016,3682,CS,435,001,Lecture,Select Top in Comp Science,25,13
+201710,Fall Semester 2016,2618,CS,436,001,Lecture,Human-Computer Interaction,20,16
+201710,Fall Semester 2016,3246,CS,481,001,Lecture,Senior Project Design,5,3
+201710,Fall Semester 2016,3247,CS,482,001,Lecture,Senior Project Implementation,5,1
+201710,Fall Semester 2016,3743,CS,493,001,Ind Study/Research/Thesis/Proj,Directed Study,5,1
+201710,Fall Semester 2016,3244,CS,515,001,Lecture,Java Programming,0,0
+201710,Fall Semester 2016,3245,CS,515,002,Lab,Java Programming,0,0
+201710,Fall Semester 2016,2621,CS,535,001,Lecture,ST:  Computer Science,20,6
+201710,Fall Semester 2016,3683,CS,535,002,Lecture,ST:  Computer Science,25,8
+201710,Fall Semester 2016,2619,CS,536,001,Lecture,Human-Computer Interaction,10,4
+201710,Fall Semester 2016,2620,CS,620,001,Lecture,Multimedia Project Development,12,8
+201710,Fall Semester 2016,2713,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201710,Fall Semester 2016,2714,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201710,Fall Semester 2016,2715,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,4
+201710,Fall Semester 2016,2716,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,0
+201720,Spring Semester 2017,3023,CS,101,001,Lecture,Living with Computers,27,26
+201720,Spring Semester 2017,3024,CS,101,002,Lecture,Living with Computers,27,20
+201720,Spring Semester 2017,3025,CS,101,003,Lab,Living with Computers,18,15
+201720,Spring Semester 2017,3026,CS,101,004,Lab,Living with Computers,18,18
+201720,Spring Semester 2017,3027,CS,101,005,Lab,Living with Computers,18,13
+201720,Spring Semester 2017,4476,CS,145,001,Lecture,Intro to Object-Oriented Prog,20,9
+201720,Spring Semester 2017,4477,CS,145,002,Lab,Intro to Object-Oriented Prog,20,9
+201720,Spring Semester 2017,4317,CS,345,001,Lecture,Data & File Structures,20,18
+201720,Spring Semester 2017,4318,CS,345,002,Lab,Data & File Structures,20,18
+201720,Spring Semester 2017,4319,CS,431,001,Lecture,Database Management,20,15
+201720,Spring Semester 2017,4498,CS,435,001,Lecture,Select Top in Comp Science,20,9
+201720,Spring Semester 2017,4504,CS,435,002,Lecture,Select Top in Comp Science,20,7
+201720,Spring Semester 2017,4321,CS,451,001,Lecture,Software Engineering,20,11
+201720,Spring Semester 2017,4457,CS,474,001,Lecture,Machine Learning Algorithms,0,0
+201720,Spring Semester 2017,4459,CS,476,001,Lecture,Animation and Visualization,20,6
+201720,Spring Semester 2017,4472,CS,481,001,Lecture,Senior Project Design,5,4
+201720,Spring Semester 2017,4473,CS,482,001,Lecture,Senior Project Implementation,5,3
+201720,Spring Semester 2017,4490,CS,515,001,Lecture,Java Programming,10,1
+201720,Spring Semester 2017,4491,CS,515,002,Lab,Java Programming,10,1
+201720,Spring Semester 2017,4320,CS,531,001,Lecture,Database Management,10,8
+201720,Spring Semester 2017,4499,CS,535,001,Lecture,ST:  Computer Science,12,5
+201720,Spring Semester 2017,4505,CS,535,002,Lecture,ST:  Computer Science,20,1
+201720,Spring Semester 2017,4322,CS,551,001,Lecture,Software Engineering,10,3
+201720,Spring Semester 2017,4458,CS,574,001,Lecture,Machine Learning Algorithms,0,0
+201720,Spring Semester 2017,4460,CS,576,001,Lecture,Animation and Visualization,10,9
+201720,Spring Semester 2017,4605,CS,593,001,Ind Study/Research/Thesis/Proj,DS:,2,2
+201720,Spring Semester 2017,4323,CS,600,001,Lecture,Prin Media Arts & Comp Sci,20,9
+201720,Spring Semester 2017,4324,CS,697,001,Ind Study/Research/Thesis/Proj,Field Project,5,1
+201720,Spring Semester 2017,4326,CS,697,002,Ind Study/Research/Thesis/Proj,Field Project,5,0
+201720,Spring Semester 2017,4325,CS,699,001,Ind Study/Research/Thesis/Proj,Thesis,5,1
+201720,Spring Semester 2017,4327,CS,699,002,Ind Study/Research/Thesis/Proj,Thesis,5,2
